@@ -1,0 +1,5 @@
+#OPERASI LAIN (ga pakai numpy)
+print(x ** 2) #KUADRAT TIAP ELEMEN
+[0 1 4 9 16]
+print(x%2) #MODULUS TIAP ELEMEN
+[01010]
