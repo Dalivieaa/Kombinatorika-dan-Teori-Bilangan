@@ -1,0 +1,10 @@
+#FUNGSI NUMPY YANG SERING DIPAKAI
+>>> import numpy as np
+>>> print(np.arange(0,10,2)) #DERET DENGAN STEP
+[0 2 468]
+>>> print(np.linspace(0,1,5)) #5 TITIK DIANTARA 0 DAN 1
+[0. 0.25 0.5 0.75 1. ]
+>>> print(np.zeros(5))  #ARRAY BERISI 0
+[0. 0. 0. 0. 0.]
+>>> print(np.ones(3)) #ARRAY BERISI 1
+[1. 1. 1.]
