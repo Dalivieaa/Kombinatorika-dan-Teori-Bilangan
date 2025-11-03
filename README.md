@@ -1,1 +1,1 @@
-# Kombinatorika-dan-Teori-Bilangan
+# Fungsi-dan-Teori-Bilangan
