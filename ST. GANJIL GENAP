@@ -1,0 +1,15 @@
+>>> # STUDI KASUS: DETEKSI BILANGAN GANJIL ATAU GENAP
+>>> def ganjil_genap(n):
+  if n % 2 == 0:
+    return "Genap"
+  else:
+    return "Ganjil"
+
+>>> bil = int(input("Masukkan bilangan: "))
+Masukkan bilangan: 7
+>>> print(f"{bil} adalah bilangan {ganjil_genap(bil)}")
+7 adalah bilangan Ganjil
+>>> bil = int(input("Masukkan bilangan: "))
+Masukkan bilangan: 10
+>>> print(f"{bil} adalah bilangan {ganjil_genap(bil)}")
+10 adalah bilangan Genap
